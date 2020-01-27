@@ -1,7 +1,7 @@
 # Introduction to Programming
 # Author: Emmanuel
-# Date: 1/27/2020
+# Date:01/27/2020
 def main():
     print("hello, instructor!")
-    print("Good-bye!)
+    print("Good-bye!")          
 main()
